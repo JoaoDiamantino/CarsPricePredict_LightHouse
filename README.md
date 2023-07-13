@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: Modelo de Predição de Preços de Carros.md</h1>
+<h1 align="center">:file_cabinet: Modelo de Predição de Preços de Carros</h1>
 
 ## :memo: Descrição
 Este projeto é destinado ao desafio Cientista de Dados da Indicium.
